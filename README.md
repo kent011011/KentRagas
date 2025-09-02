@@ -7,3 +7,5 @@ asdasd
 dasd
 
 asdasd
+
+before stash
